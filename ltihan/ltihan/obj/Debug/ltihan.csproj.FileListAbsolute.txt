@@ -1,0 +1,14 @@
+C:\Users\surab\source\repos\ltihan\ltihan\bin\Debug\ltihan.exe.config
+C:\Users\surab\source\repos\ltihan\ltihan\bin\Debug\ltihan.exe
+C:\Users\surab\source\repos\ltihan\ltihan\bin\Debug\ltihan.pdb
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.csproj.AssemblyReference.cache
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.csproj.SuggestedBindingRedirects.cache
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.drink.resources
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.Form1.resources
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.mam.resources
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.Properties.Resources.resources
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.snack.resources
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.csproj.GenerateResource.cache
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.csproj.CoreCompileInputs.cache
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.exe
+C:\Users\surab\source\repos\ltihan\ltihan\obj\Debug\ltihan.pdb
